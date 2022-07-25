@@ -1,4 +1,4 @@
-# [Endpoint URL](http://udagram-dev2.us-east-1.elasticbeanstalk.com) http://udagram-dev2.us-east-1.elasticbeanstalk.com/
+# [Endpoint URL:](http://udagram-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/71D7/production/_126034192_c5a08ced9abcdda455f9be7d4cba2d023bec59a1.jpg) http://udagram-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/71D7/production/_126034192_c5a08ced9abcdda455f9be7d4cba2d023bec59a1.jpg
 
 ## Udagram Image Filtering Microservice
 
